@@ -1,0 +1,5 @@
+Approach,Recall@10,Recall@50,Recall@100,MRR@10,nDCG@10,P95_latency_ms,Notes
+BM25,,,,,,,
+Dense (bi-encoder),,,,,,,
+Hybrid (BM25 ⊕ Dense),,,,,,,
+Hybrid + Re-ranker,,,,,,,
